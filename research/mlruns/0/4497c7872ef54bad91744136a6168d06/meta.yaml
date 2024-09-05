@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/AI/Project/Chest-Disease-Classification/research/mlruns/0/4497c7872ef54bad91744136a6168d06/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4497c7872ef54bad91744136a6168d06
+run_name: enthused-donkey-597
+run_uuid: 4497c7872ef54bad91744136a6168d06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1725506531023
+status: 1
+tags: []
+user_id: prath
